@@ -23,4 +23,7 @@ public class Persona {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+	
+	//Autor: Jorge Rios Sanchez.
 }
+
