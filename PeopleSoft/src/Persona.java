@@ -1,4 +1,5 @@
 public class Persona {
+	//Descripción: interfaz persona.
 	public String nombre;
 	private String apellido;
 
@@ -22,4 +23,7 @@ public class Persona {
 	public void setApellido(String apellido) {
 		this.apellido = apellido;
 	}
+	
+	//Autor: Jorge Rios Sanchez.
 }
+
