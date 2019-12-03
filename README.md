@@ -1,3 +1,3 @@
-- ####Examen de ED. Git
+####- Examen de ED. Git
 - Actividad 1 del examen de control de versiones.
-- Autor: nombre
+- Autor: Jorge Rios Sanchez
