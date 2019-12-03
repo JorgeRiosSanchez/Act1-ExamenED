@@ -1,6 +1,6 @@
 public class Persona {
 	//Descripción: interfaz persona.
-	public String nombre;
+	private String nombre;
 	private String apellido;
 
 	public Persona(String nombre, String apellido) {
