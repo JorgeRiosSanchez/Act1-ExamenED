@@ -25,5 +25,6 @@ public class Persona {
 	}
 	
 	//Autor: Jorge Rios Sanchez.
+	//Autor2: Jorge Rios Sanchez.
 }
 
